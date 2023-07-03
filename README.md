@@ -1,1 +1,1 @@
-# proshop-django-react
+# Proshop django-react
