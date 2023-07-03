@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://proshop-jeus.s3.amazonaws.com/static/css/main.a3b6c15d.css",
+    "main.js": "https://proshop-jeus.s3.amazonaws.com/static/js/main.09790037.js",
+    "static/js/787.cda612ba.chunk.js": "https://proshop-jeus.s3.amazonaws.com/static/js/787.cda612ba.chunk.js",
+    "index.html": "https://proshop-jeus.s3.amazonaws.com/index.html",
+    "main.a3b6c15d.css.map": "https://proshop-jeus.s3.amazonaws.com/static/css/main.a3b6c15d.css.map",
+    "main.09790037.js.map": "https://proshop-jeus.s3.amazonaws.com/static/js/main.09790037.js.map",
+    "787.cda612ba.chunk.js.map": "https://proshop-jeus.s3.amazonaws.com/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b6c15d.css",
+    "static/js/main.09790037.js"
+  ]
+}
